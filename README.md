@@ -1,10 +1,9 @@
 # MERN-Tasks
 
 # Info
-1) Name: ADITH SAGAR GOWDA
-2) Reg No: 21BAI1928
-3) VIT Email: adithsagar.gowda2021@vitstudent.ac.in
-4) Personal Email: adithgowda06@gmail.com
+1) Name: ANKAM SRINIVAS
+2) Reg No: 21MIS7009
+3) VIT Email: srinivas.21mis7009vitstudent.ac.in
 
 # Details
 This repository includes all the tasks/works done during the course of the MERN-Stack.
@@ -12,3 +11,4 @@ This repository includes all the tasks/works done during the course of the MERN-
 Consists of - 
 1) 5 HTML tasks
 2) 7 CSS tasks
+3) 6 BootStrap Tasks
